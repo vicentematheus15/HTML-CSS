@@ -1,7 +1,10 @@
 body{
-    background-color: black;
-    color: white;
+    background-color: #0A0908;
+    color: #E2E2E2;
 }
 strong{
     color: #22D4FD ;
+}
+a{
+    color: #22D4FD
 }
