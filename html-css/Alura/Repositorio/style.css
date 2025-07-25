@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+.apresentacao{
+    display: flex;
+}
 body{
     height: 100vh;
     box-sizing: border-box;
