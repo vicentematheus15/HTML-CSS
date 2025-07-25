@@ -4,6 +4,7 @@
 }
 .apresentacao{
     display: flex;
+    align-items: center;
 }
 body{
     height: 100vh;
