@@ -4,6 +4,7 @@
 }
 body{
     height: 100vh;
+    box-sizing: border-box;
     width: 100vw;
     background-color: #0A0908;
     color: #E2E2E2;
