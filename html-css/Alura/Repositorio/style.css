@@ -11,8 +11,11 @@ body{
 .apresentacao{
     display: flex;
     align-items: center;
-    /* justify-content: space-between; */
+    justify-content: space-between;
     margin: 8%;
+}
+.apresentacao__conteudo{
+    width: 615px;
 }
 .titulo-destaque{
     color: #22D4FD ;
