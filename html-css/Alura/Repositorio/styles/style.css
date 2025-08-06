@@ -70,6 +70,7 @@ body{
     flex-direction: column;
     gap: 1.8rem;
     align-items: center;
+    justify-content: space-between;
 }
 .apresentacao__links__subtitulo{
     font-family: var(--fonte-primaria);
